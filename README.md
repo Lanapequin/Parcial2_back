@@ -14,5 +14,3 @@
 ![image1](images/5.png)
 ![image1](images/7.png)
 
-## Front apuntando al back desplegado en Azure
-![image1](images/6.png)
