@@ -11,8 +11,8 @@
 	<groupId>edu.eci.cvds</groupId>
 	<artifactId>prueba</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>prueba</name>
-	<description>prueba_cvds</description>
+	<name>parcial2</name>
+	<description>Parcial segundo corte CVDS</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -118,7 +118,7 @@
 										<limit>
 											<counter>CLASS</counter>
 											<value>COVEREDRATIO</value>
-											<minimum>0.0</minimum><!--Porcentaje mínimo de cubrimiento para construir el proyecto-->
+											<minimum>0.80</minimum><!--Porcentaje mínimo de cubrimiento para construir el proyecto-->
 										</limit>
 									</limits>
 								</rule>
