@@ -5,20 +5,18 @@ public class Item {
     private double unitPrice;
     private int quantity;
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public Item(String name, double unitPrice, int quantity) {
         this.name = name;
         this.unitPrice = unitPrice;
         this.quantity = quantity;
     }
 
+    public String getName() {
+        return name;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public double getUnitPrice() {
         return unitPrice;
